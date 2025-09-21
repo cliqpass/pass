@@ -260,7 +260,7 @@ function setupRegistrationPage() {
 // Setup event listeners for video page
 function setupVideoPage() {
   document.querySelector('.unlock-btn').addEventListener('click', () => {
-    window.location.href = 'https://pay.sunize.com.br/pkSnXrlS';
+    window.location.href = 'https://go.disruptybr.com.br/aj1xic9fwk';
   });
 
 }
